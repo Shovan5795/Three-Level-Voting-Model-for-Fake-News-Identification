@@ -15,6 +15,14 @@ recognizing misleading information which has been surpassed by our proposed nove
 best performance using TF-IDF for feature extraction with 96% accuracy.
 
 PROPOSED METHOD:
+![Overall Process Detection(1)](https://user-images.githubusercontent.com/77354495/126186101-afca66e3-812d-4873-9d70-e6127584b1cb.png)
+![Preprocess](https://user-images.githubusercontent.com/77354495/126186107-8df58a2c-86b5-4599-92b6-535c03036c01.png)
+![Three Level Voting](https://user-images.githubusercontent.com/77354495/126186117-46396ffe-156d-4ab2-a6b6-29e0d98408eb.png)
+![wordcloud1](https://user-images.githubusercontent.com/77354495/126186122-b75af336-dd4c-4240-9d5d-8a1d3c98afbc.png)
+
+RESULT ANALYSIS:
+![11](https://user-images.githubusercontent.com/77354495/126186221-aa28a64f-f6f6-49dd-8ac9-8ab87cbbf428.JPG)
+![2](https://user-images.githubusercontent.com/77354495/126186229-7e1519ba-c7d6-4cf1-9d66-d450f8ad9594.JPG)
 
 
 
