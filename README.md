@@ -1,4 +1,9 @@
 # Three-Level-Voting-Model-for-Fake-News-Identification
+Paper Title: A Novel Three-Level Voting Model for Detecting Misleading Information on COVID-19
+
+Please cite this paper if you use the materials:
+S. Bhowmik, P.R.K. Prosun, K.S. Alam, “A Novel Three-Level Voting Model for Detecting Misleading Informationon COVID-19”,6th International Conference On Emerging Applications Of Information Technology (EAIT 2020),Lecture Notes in Networks and Systems, Springer, pp. 374-383, 2021, doi:https://doi.org/10.1007/978-981-16-4435-1_36.
+
 Fake or misleading information detection is attracting researchers from all around the world in recent years as both society and
 the political world are greatly influenced by it. Moreover, various popular social media sites such as Twitter, Facebook, Instagram, etc. have
 accelerated the increase in the dissemination of rumors, false cures, conspiracy theories in the forms of posts, articles, videos, URLs during the
